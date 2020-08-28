@@ -32,7 +32,7 @@ var samples = ee.FeatureCollection(assetSamples);
 
 Map.addLayer(samples, {}, 'samples 2019', true);
 ```
-<a href="https://code.earthengine.google.com/05af09ff13757eb606212e7edb607b19/" target="_blank" rel="noopener">Link to script</a>
+<a href="https://code.earthengine.google.com/05af09ff13757eb606212e7edb607b19" target="_blank" rel="noopener">Link to script</a>
 
 ### Classification
 
