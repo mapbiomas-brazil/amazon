@@ -103,7 +103,7 @@ randomForestParams = {
 featureSpace = ["gv", "gvs", "soil", "npv", "shade", "ndfi", "csfi"]
 ```
 
-8. There area some others parameters you can explore.
+8. There are some others parameters you can explore.
 
 9. Run the code on the terminal.
 
