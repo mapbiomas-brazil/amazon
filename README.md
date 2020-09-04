@@ -1,5 +1,5 @@
 <div>
-    <img src='./assets/logo.jpg' height='auto' width='240' align='right'>
+    <img src='./assets/logo.png' height='auto' width='240' align='right'>
     <h1>Amazon Biome</h1>
 </div>
 
