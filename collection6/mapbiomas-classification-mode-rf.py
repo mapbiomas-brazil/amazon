@@ -10,19 +10,17 @@ ASSETS = {
     'output': 'projects/imazon-simex/LULC/classification-itg'
 }
 
-NEW_DATA = False
-
 INPUT_VERSION = '2'
 
 OUTPUT_VERSION = '7'
 
 CLASS_IDS = [
-    3,  # forest
-    4,  # savanna
+    3,   # forest
+    4,   # savanna
     12,  # grassland
     15,  # pasture
     19,  # agriculture
-    33  # water
+    33   # water
 ]
 
 # N Samples padrao
